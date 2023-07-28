@@ -1,0 +1,11 @@
+body {
+  color: red;
+  font-size: 30px;
+  font-weight: 700;
+}
+#box1 {
+  color: blue;
+}
+#box2 {
+  color: rgb(42, 239, 12);
+}
