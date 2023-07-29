@@ -67,8 +67,9 @@ for (let q = 0; q < arrayA.length; q++) {
   arrayA[q] = rand(10, 30);
   max(arrayA);
 }
-console.log("Didžiausią masyvo reikšmę : ", max(arrayA));
+
 console.log("6 užduotis : ", arrayA);
+console.log("Didžiausią masyvo reikšmę : ", max(arrayA));
 box.innerHTML = " (6 užd.) didžiausią masyvo reikšmę : " + max(arrayA);
 
 // 7 Uzduotis
